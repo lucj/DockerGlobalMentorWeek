@@ -1,4 +1,7 @@
-TLDR: RSVP, make sure you have a Docker Hub account, and bring your laptop fully charged with Docker set-up. See below for some further instructions and details. 
+# TL;DR
+
+Please make sure you have a Docker Hub account, and bring your laptop fully charged with Docker set-up.
+See below for some further instructions and details. 
 
 # Create a Docker Hub account (hub.docker.com)
 
